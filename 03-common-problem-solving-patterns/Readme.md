@@ -7,7 +7,9 @@
         </a>
     </li>
     <li>
-        Multiple Pointer
+        <a href="02-multiple_pointer/Readme.md">
+            Multiple Pointers
+        </a>
     </li>
     <li>
         Sliding Window
