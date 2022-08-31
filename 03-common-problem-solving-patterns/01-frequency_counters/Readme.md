@@ -16,24 +16,3 @@ This can often avoid the need for nested loops or O(n^2) operations with arrays 
 // same([1, 2, 1], [4, 1, 4]); // false (must be same frequency)
 
 ```
-
-
-
-### More practice
-
-
-[Frequency Counters](https://www.hackerrank.com/contests/crescent-practice-1st-and-2nd-year/challenges/anagram-3/problem)
-
-<br>
-
- 
-
-[Frequency Counters](https://leetcode.com/problems/unique-number-of-occurrences/)
-
-<br>
-
-[Frequency Counters](https://leetcode.com/problems/valid-anagram/)
-
-<br>
-
-[Frequency Counters](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
