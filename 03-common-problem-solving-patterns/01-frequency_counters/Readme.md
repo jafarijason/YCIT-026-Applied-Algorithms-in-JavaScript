@@ -6,7 +6,9 @@ This can often avoid the need for nested loops or O(n^2) operations with arrays 
 
 ## Example
 ```JavaScript
-// Write a function called same, which accepts two arrays. The function should return true if every value in the array has it's corresponding value squared in the second array. The frequency of values must be the same. 
+// Write a function called same, which accepts two arrays.
+// The function should return true if every value in the array has it's corresponding value squared in the second array.
+//The frequency of values must be the same. 
 
 // same([1, 2, 3], [1, 4, 9]); // true
 // same([1, 2, 3], [4, 1, 9]); // true
@@ -18,9 +20,13 @@ This can often avoid the need for nested loops or O(n^2) operations with arrays 
 
 
 ### More practice
-[Frequency Counters](https://www.hackerrank.com/contests/codewars-2015-1/challenges/frequency-count)
+
+
+[Frequency Counters](https://www.hackerrank.com/contests/crescent-practice-1st-and-2nd-year/challenges/anagram-3/problem)
 
 <br>
+
+ 
 
 [Frequency Counters](https://leetcode.com/problems/unique-number-of-occurrences/)
 
