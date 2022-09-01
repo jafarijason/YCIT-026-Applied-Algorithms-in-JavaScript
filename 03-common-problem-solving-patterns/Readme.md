@@ -26,7 +26,11 @@
     <li>
         Backtracking
     </li>
-    <li>
-        Many more!
-    </li>
 </ul>
+
+
+
+
+[And Many More!](https://www.educative.io/courses/grokking-the-coding-interview)
+
+[More!](https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
