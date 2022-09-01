@@ -12,7 +12,9 @@
         </a>
     </li>
     <li>
-        Sliding Window
+        <a href="03-sliding_window/Readme.md">
+            Sliding Window
+        </a>
     </li>
     <li>
         Divide and Conquer
