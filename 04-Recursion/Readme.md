@@ -27,5 +27,14 @@ Any time a function is invoked it is placed (pushed) on the top of call stack.
 When Javascript sees the return keyword or when the function ends, the compiler will remove (pop)
 
 
+# how recursive functions work
+
+Invoke the same function with a different input until you reach your base case!
+
+## Base Case
+
+The condition when the recursion will ends.
+
+
 
 
