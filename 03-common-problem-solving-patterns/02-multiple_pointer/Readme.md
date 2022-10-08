@@ -21,6 +21,7 @@ Very efficient for solving problems with minimal space complexity as well
 
 ### Practice  [Counting Unique Values](https://dev.to/denisepen/tackling-algorithms-counting-unique-values-1a5n)
 
+Lets solve it in different way!!! (using Set())
 
 
 ### [More practice](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days.)
