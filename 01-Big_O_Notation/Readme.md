@@ -19,8 +19,8 @@ How do we know which one is the best?
 <img src="images/BIG-o.jpeg" />
 <br>
 
-# Example 1 
-Suppose we want to write a function that calculate sum of all numbers from 2 up to some number n.
+# Example 1
+Suppose we want to write a function that calculate sum of all numbers from 0 up to some number n.
 
 ### Solution1
 ```JavaScript
