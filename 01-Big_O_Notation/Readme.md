@@ -112,10 +112,7 @@ We can also use big O notation to analyze space complexity:
 <br>
 How much additional memory do we need to allocate in order to run the code in our algorithm?
 
-## What about the inputs?
-Sometimes you'll hear the term auxiliary space complexity to refer to space required by the algorithm, not including space taken up by the inputs.
 
-Unless otherwise noted, when we talk about space complexity, technically we'll be talking about auxiliary space complexity.
 
 ## Space Complexity in js
 ### Rules of Thumb
