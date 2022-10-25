@@ -1,4 +1,4 @@
-# Big O Notation
+# [Big O Notation](https://www.youtube.com/watch?v=kS_gr2_-ws8)
 
 <br>
 <img src="images/o-complexity.png" />
