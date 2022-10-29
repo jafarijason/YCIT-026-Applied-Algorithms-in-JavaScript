@@ -50,11 +50,12 @@ A sorting algorithm where the largest values bubble up to the top
 
 <br />
 
-[Useful video](https://www.youtube.com/watch?v=xli_FI7CuzA)
+[Useful video](https://www.youtube.com/watch?v=uJLwnsLn0_Q)
+
 
 <br />
 
-[Useful video](https://www.youtube.com/watch?v=uJLwnsLn0_Q)
+[Useful video](https://www.youtube.com/watch?v=xli_FI7CuzA)
 
 
 
