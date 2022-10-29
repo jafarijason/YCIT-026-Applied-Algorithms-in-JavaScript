@@ -22,8 +22,6 @@ Very useful for keeping track of a subset of data in an array/string etc.
 ```
 
 
-### Practice  [Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem)
-
 ### [More practice](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/Sliding-Window-algorithm-template-to-solve-all-the-Leetcode-substring-search-problem)
 
 
