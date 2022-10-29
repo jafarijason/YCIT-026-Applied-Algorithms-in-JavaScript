@@ -47,6 +47,7 @@ const compareByLen = (str1, str2) => {
 A sorting algorithm where the largest values bubble up to the top
 
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
+
 [Useful video](https://www.youtube.com/watch?v=xli_FI7CuzA)
 
 [Useful video](https://www.youtube.com/watch?v=uJLwnsLn0_Q)
@@ -127,6 +128,7 @@ O(n^2)
 ## Selection sort
 
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
+
 [Useful video](https://www.youtube.com/watch?v=g-PGLbMth_g)
 
 
@@ -161,7 +163,9 @@ O(n^2)
 ## Insertion sort
 
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
+
 [Useful video](https://www.youtube.com/watch?v=JU767SDMDvA)
+
 [Useful video](https://www.youtube.com/watch?v=nKzEJWbkPbQ&list=RDLVuJLwnsLn0_Q&index=2)
 
 ```javascript
@@ -193,6 +197,7 @@ O(n^2)
 ## Merge sort algorithms
 
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
+
 [Useful video](https://www.youtube.com/watch?v=4VqmGXwpLqc)
 
 
