@@ -49,6 +49,10 @@ A sorting algorithm where the largest values bubble up to the top
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
 [Useful video](https://www.youtube.com/watch?v=xli_FI7CuzA)
 
+[Useful video](https://www.youtube.com/watch?v=uJLwnsLn0_Q)
+
+
+
 <hr />
 Many sorting algorithms involve some type of swapping functionality (e.g. swapping to numbers to put them in order)
 
@@ -81,8 +85,8 @@ function bubbleSort(arr) {
             if (arr[j] > arr[j + 1]) {
                 swap(arr, j, j + 1);
             }
+        }
     }
-}
   return arr;
 }
 
@@ -158,6 +162,7 @@ O(n^2)
 
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
 [Useful video](https://www.youtube.com/watch?v=JU767SDMDvA)
+[Useful video](https://www.youtube.com/watch?v=nKzEJWbkPbQ&list=RDLVuJLwnsLn0_Q&index=2)
 
 ```javascript
 function insertionSort(arr){
