@@ -37,6 +37,14 @@ The condition when the recursion will ends.
 
 
 
+## Problem
+
+[The maximum call stack size](https://2ality.com/2014/04/call-stack-size.html)
+
+
+[Struggling with a Maximum Call Stack Size Exceeded JavaScript Error? Check Your Recursive Function ](https://blog.airbrake.io/blog/javascript-error-handling/javascript-error-handling-maximum-call-stack-size-exceeded#:~:text=If%20you%20see%20the%20%E2%80%9CMaximum,function%20calling%20on%20itself%20indefinitely.)
+
+
 
 
 
