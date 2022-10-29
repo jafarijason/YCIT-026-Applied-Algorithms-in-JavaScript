@@ -58,3 +58,23 @@ function binarySearch(sortedArray, key){
     return -1;
 }
 ```
+
+### [Naive String Searching Algorithm](https://medium.com/nerd-for-tech/naive-string-searching-algorithm-2d5fa07fdbcd)
+
+
+```javascript
+function stringSearch(string, pattern) {
+  let count = 0;
+  for (let i = 0; i < string.length; i++) {
+    for (let j = 0; j < pattern.length; j++) {
+      if (pattern[j] !== string[i + j]) break;
+      if (j === pattern.length - 1) count++;
+    }
+  }
+  return count;
+}
+
+console.log(stringSearch("akgjfjhuyutomatokajkhgsvkjrtomato", "tomato"));
+```
+
+O(n * m)
