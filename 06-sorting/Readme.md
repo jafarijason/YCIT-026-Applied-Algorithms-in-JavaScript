@@ -41,6 +41,14 @@ const compareByLen = (str1, str2) => {
 ```
 
 <hr />
+
+## Bubble sort
+
+A sorting algorithm where the largest values bubble up to the top
+
+[https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
+
+<hr />
 Many sorting algorithms involve some type of swapping functionality (e.g. swapping to numbers to put them in order)
 
 ```javascript
@@ -56,3 +64,57 @@ const swap = (arr, idx1, idx2) => {
   [arr[idx1],arr[idx2]] = [arr[idx2],arr[idx1]];
 }
 ```
+
+<hr />
+
+```javascript
+// UNOPTIMIZED VERSION OF BUBBLE SORT
+const swap = (arr, idx1, idx2) => {
+    [arr[idx1], arr[idx2]] = [arr[idx2], arr[idx1]];
+};
+
+function bubbleSort(arr) {
+
+    for (let i = arr.length; i > 0; i--) {
+        for (let j = 0; j < i - 1; j++) {
+            if (arr[j] > arr[j + 1]) {
+                swap(arr, j, j + 1);
+            }
+    }
+}
+  return arr;
+}
+
+bubbleSort([8,1,2,3,4,5,6,7]);
+```
+
+
+```javascript
+
+// Optimized BubbleSort with noSwaps
+const swap = (arr, idx1, idx2) => {
+    [arr[idx1], arr[idx2]] = [arr[idx2], arr[idx1]];
+};
+
+
+function bubbleSort(arr){
+    var noSwaps;
+    for(var i = arr.length; i > 0; i--){
+        noSwaps = true;
+        for(var j = 0; j < i - 1; j++){
+            if(arr[j] > arr[j+1]){
+                swap(arr, j, j + 1);
+                noSwaps = false;
+            }
+        }
+        if(noSwaps) break;
+    }
+    return arr;
+}
+
+bubbleSort([8,1,2,3,4,5,6,7]);
+```
+
+O(n^2)
+
+<hr />
