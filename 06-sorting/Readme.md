@@ -48,7 +48,11 @@ A sorting algorithm where the largest values bubble up to the top
 
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
 
+<br />
+
 [Useful video](https://www.youtube.com/watch?v=xli_FI7CuzA)
+
+<br />
 
 [Useful video](https://www.youtube.com/watch?v=uJLwnsLn0_Q)
 
@@ -129,6 +133,8 @@ O(n^2)
 
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
 
+<br />
+
 [Useful video](https://www.youtube.com/watch?v=g-PGLbMth_g)
 
 
@@ -164,7 +170,11 @@ O(n^2)
 
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
 
+<br />
+
 [Useful video](https://www.youtube.com/watch?v=JU767SDMDvA)
+
+<br />
 
 [Useful video](https://www.youtube.com/watch?v=nKzEJWbkPbQ&list=RDLVuJLwnsLn0_Q&index=2)
 
@@ -190,13 +200,19 @@ O(n^2)
 
 ## [Comparing sort Algorithms](https://www.gyanblog.com/coding-interview/list-sorting-algorithms/)
 
+<br />
+
 [visual check](https://www.toptal.com/developers/sorting-algorithms)
 
 <hr />
 
 ## Merge sort algorithms
 
+<br />
+
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
+
+<br />
 
 [Useful video](https://www.youtube.com/watch?v=4VqmGXwpLqc)
 
@@ -277,6 +293,8 @@ function mergeSort(arr){
 mergeSort([10,24,76,73])
 ```
 O(n log n)
+
+<br />
 
 [Comparing sort Algorithms](https://www.gyanblog.com/coding-interview/list-sorting-algorithms/)
 
