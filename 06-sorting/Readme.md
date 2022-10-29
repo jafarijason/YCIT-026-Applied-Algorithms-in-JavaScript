@@ -170,14 +170,14 @@ O(n^2)
 ## Insertion sort
 
 [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
+<br />
+
+[Useful video](https://www.youtube.com/watch?v=nKzEJWbkPbQ&list=RDLVuJLwnsLn0_Q&index=2)
 
 <br />
 
 [Useful video](https://www.youtube.com/watch?v=JU767SDMDvA)
 
-<br />
-
-[Useful video](https://www.youtube.com/watch?v=nKzEJWbkPbQ&list=RDLVuJLwnsLn0_Q&index=2)
 
 ```javascript
 function insertionSort(arr){
