@@ -302,3 +302,8 @@ O(n log n)
 <hr />
 
 and many more sorting algorithms
+
+
+<br />
+
+[Interesting video ](https://www.youtube.com/watch?v=qk7b4-iyCJ4)
