@@ -5,7 +5,7 @@
 
 O(n)
 
-### examples isn javascript
+### examples in JavaScript
 <ul>
     <li>indexOf</li>
     <li>includes</li>
@@ -58,6 +58,8 @@ function binarySearch(sortedArray, key){
     return -1;
 }
 ```
+
+[https://visualgo.net/en/bst][https://visualgo.net/en/bst]
 
 ### [Naive String Searching Algorithm](https://medium.com/nerd-for-tech/naive-string-searching-algorithm-2d5fa07fdbcd)
 
